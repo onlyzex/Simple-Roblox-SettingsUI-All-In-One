@@ -29,7 +29,7 @@ Repositori ini menghadirkan sistem Setting yang lengkap, dibuat menggunakan baha
 * **Pengalaman Pengguna Tanpa Hambatan**: Nikmati transisi UI yang halus dengan efek `fade-in` dan `fade-out` yang elegan, semuanya didukung oleh **`TweenService`**.
 
 * **Fungsionalitas Penuh**:
-    * **Daftar Emote Otomatis**: Tombol-tombol setting dibuat secara dinamis berdasarkan data yang Anda sediakan.
+    * **Daftar Function Otomatis**: Tombol-tombol setting dibuat secara dinamis berdasarkan data yang Anda sediakan.
     * **Custom Settings**: Kalian bisa custom fungsi yang ingin kalian tambahkan dengan mudah.
     * **Kontrol Setting**: Tombol "Buka dan Tutup Settings UI" yang praktis memungkinkan pemain untuk mengakses setting in game kapan saja.
 
@@ -37,11 +37,11 @@ Repositori ini menghadirkan sistem Setting yang lengkap, dibuat menggunakan baha
 
 1.  Tempatkan **`SettingsUIByIbraa` ** ini di dalam `StarterGui` di Roblox Studio.
 2.  Sesuaikan tabel data **`setting`** di dalam skrip dengan **`function setting`** dan nama milik Anda sendiri.
-3.  Kode ini menyediakan fondasi sempurna untuk membangun sistem emote yang terlihat profesional dan berfungsi penuh untuk game Anda.
+3.  Kode ini menyediakan fondasi sempurna untuk membangun sistem Setting Function yang terlihat profesional dan berfungsi penuh untuk game Anda.
 
 -----------------------------------------------------
 
-# Custom Your Emote Dance:
+# Custom Your Function Dance:
 find this and change it by yourself
 ```lua
 -- ========== Isi Settings ========== (Bisa Custom Sendiri, tinggal copy function dan sesuaikan)
